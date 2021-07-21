@@ -118,7 +118,8 @@ make bin/example // or make all. start building again, with the newer Release of
 ```
 
 ## Troubleshooting
-1. Adding Qt debug symbol files to sentry so you can symbolicate
+
+--
 
 ## Gif
 
